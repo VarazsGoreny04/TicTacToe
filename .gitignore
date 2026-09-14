@@ -1,0 +1,16 @@
+.vs/
+bin/
+obj/
+TestResults/
+
+.idea/
+*.bin
+
+.git/
+.gitignore/
+
+*.exe
+
+.vscode/
+
+x64/
