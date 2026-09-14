@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcedurallyGeneratedAnimals", "ProcedurallyGeneratedAnimals\ProcedurallyGeneratedAnimals.csproj", "{93E06B73-ED77-46CB-9822-333E0C63CE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E06B73-ED77-46CB-9822-333E0C63CE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E06B73-ED77-46CB-9822-333E0C63CE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E06B73-ED77-46CB-9822-333E0C63CE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E06B73-ED77-46CB-9822-333E0C63CE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A1F0E2-C124-4150-850B-829488E3B7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A1F0E2-C124-4150-850B-829488E3B7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A1F0E2-C124-4150-850B-829488E3B7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A1F0E2-C124-4150-850B-829488E3B7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3920850A-610F-430B-B083-FAC10A5D9E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3920850A-610F-430B-B083-FAC10A5D9E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3920850A-610F-430B-B083-FAC10A5D9E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3920850A-610F-430B-B083-FAC10A5D9E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {016DBA7C-1229-41BD-9C9B-4AC51389E8A5}
+	EndGlobalSection
+EndGlobal
